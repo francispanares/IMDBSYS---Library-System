@@ -1,0 +1,32 @@
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.exe
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.deps.json
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.runtimeconfig.json
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.AssemblyReference.cache
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Form1.resources
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Properties.Resources.resources
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.GenerateResource.cache
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfoInputs.cache
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.AssemblyInfo.cs
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\refint\Library System Management.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.pdb
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.genruntimeconfig.cache
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\ref\Library System Management.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.menu.resources
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Author.resources
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Books.resources
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.BorrowBooks.resources
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.Students.resources
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library System Management.csproj.CopyComplete
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.addAuthorUI.resources
+C:\Users\Francis\source\repos\Library System Management\Library System Management\obj\Debug\net6.0-windows\Library_System_Management.updateAuthorUI.resources
